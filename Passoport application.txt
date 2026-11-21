@@ -1,0 +1,72 @@
+1)DEVELOPMENT OF PROBLEM STATEMENT:
+
+AIM:
+Develop problem statement for Passport Automation Statement.
+
+
+PROBLEM STATEMENT:
+In the present passport application system applicants have to visit passport office for registrationof slot,verification of 
+documents and they have to wait for their turn which wastes their time.
+
+
+SOLUTION:
+The Passport Automation System provides a website where applicants can register, apply,upload documents, pay fees, and track the 
+passport status.
+
+
+OBJECTIVES:
+*To reduce manual work.
+*To increase the ease to apply a passport.
+*Tracking the status of their passport.
+*To increase security.
+
+MODULES:
+*Registration
+*Login
+*Uploading documents
+*Payment
+*Tracking status
+*Verification
+
+
+RESULT:
+Problem statement is developed.
+
+2)SOFTWARE REQUIREMENT SPECIFICATIONS:
+
+AIM:
+Prepare Software Requirement Specification document.
+
+
+FUNCTIONAL REQUIREMENTS:
+*Registration
+*Login
+*Apply for Passport
+*Upload Documents
+*Pay Fee
+*Verify Documents
+*Track Application Status
+*Admin Approval
+
+
+NON-FUNCTIONAL REQUIREMENTS:
+*Security
+*Availability
+*Performance
+*Ease of use
+
+
+HARDWARE REQUIREMENTS:
+*Hard disk
+*Processor
+*RAM
+
+
+SOFTWARE REQUIREMENTS:
+*Windows 10/11
+*HTML, CSS
+*Google Chrome
+*My SQL
+
+RESULT:
+SRS is prepared.
